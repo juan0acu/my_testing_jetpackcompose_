@@ -74,6 +74,7 @@ fun MessageCard(msg: Message) {
             color = MaterialTheme.colors.secondary,
             style = MaterialTheme.typography.subtitle1
         )
+
             Spacer(modifier = Modifier.height(4.dp))
             Surface(
                 shape = MaterialTheme.shapes.medium,
